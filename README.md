@@ -29,6 +29,7 @@ Data has been cleaned since download.
 ## Repository Structure
 
 - Currents_12_10_Packaged.twbx
+- README.md
 - data
 	- PUG1501_6_Annual_2018.csv
 	- PUG1501_6_Annual_2019.csv
